@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AceNCT
 
-## Getting Started
+AceNCT is a modern exam preparation platform designed to help students prepare for standardized tests through interactive practice, analytics, and personalized learning.
 
-First, run the development server:
+The platform provides structured practice tests, real-time performance tracking, and intelligent training tools that help students identify weak areas and improve their exam results efficiently.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+AceNCT aims to transform exam preparation from passive memorization into an active learning experience by combining modern web technologies with data-driven learning methods.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Practice exams that simulate real test environments
+- Topic-based training modules
+- Performance analytics and progress tracking
+- Adaptive learning recommendations
+- Clean and responsive user interface
+- Fast and scalable architecture
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech Stack
 
-## Learn More
+- Next.js
+- TypeScript
+- React
+- Prisma
+- PostgreSQL
+- TailwindCSS
 
-To learn more about Next.js, take a look at the following resources:
+## Vision
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+AceNCT is designed to evolve into a scalable global education platform capable of supporting multiple standardized exams and learning systems.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The goal is to build an accessible digital environment where students can practice, analyze their progress, and continuously improve their academic performance.
 
-## Deploy on Vercel
+## Status
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Active development
