@@ -1,0 +1,13 @@
+{
+  "HomePage": {
+    "header":{
+      "homeTitle":"Дом",
+      "testsTitle":"Тесты",
+      "subjectsTitle":"Предметы"
+    },
+    "buttons":{
+      "login":"Войти",
+      "signUp":"Создать аккаунт"
+    }
+  }
+}

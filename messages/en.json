@@ -1,0 +1,13 @@
+{
+  "HomePage": {
+    "header":{
+      "homeTitle":"Home",
+      "testsTitle":"Tests",
+      "subjectsTitle":"Subjects"
+    },
+    "buttons":{
+      "login":"Login in",
+      "signUp":"Sign Up"
+    }
+  }
+}

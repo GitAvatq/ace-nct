@@ -1,0 +1,13 @@
+{
+  "HomePage": {
+    "header":{
+      "homeTitle":"Башкы баракча",
+      "testsTitle":"Тесттер",
+      "subjectsTitle":"Сабактар"
+    },
+    "buttons":{
+      "login":"Кируу",
+      "signUp":"Регистрациядан отуу"
+    }
+  }
+}
